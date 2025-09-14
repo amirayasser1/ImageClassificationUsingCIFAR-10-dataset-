@@ -1,1 +1,1 @@
-# ImageClassificationUsingCIFAR-10-dataset-
+# ImageClassificationUsingCIFAR-10-dataset
